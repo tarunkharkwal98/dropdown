@@ -1,0 +1,8 @@
+.select-container {
+    border: none;
+}
+
+.option-container :hover {
+    background-color: aquamarine
+    ;
+}
